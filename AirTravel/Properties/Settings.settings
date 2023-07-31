@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AirTravel.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\SQLExpress</Value>
+    </Setting>
+    <Setting Name="adminLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="MngrLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Manager</Value>
+    </Setting>
+    <Setting Name="GuestLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Client</Value>
+    </Setting>
+    <Setting Name="adminPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">321</Value>
+    </Setting>
+    <Setting Name="MngrPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="GuestPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

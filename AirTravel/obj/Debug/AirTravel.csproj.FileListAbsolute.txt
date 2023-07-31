@@ -1,0 +1,127 @@
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\bin\Debug\AirTravel.exe.config
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\bin\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\bin\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormLogin.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.MainFormViewer.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormAdmin.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormTable.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormManager.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormUser.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormSettingsServer.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormAddEdge.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormUpdateEdge.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormDelEdge.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormAddTown.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormUpdateTown.resources
+C:\Users\Reizoky\Desktop\AirTravel\AirTravel\obj\Debug\AirTravel.FormWayFound.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.exe.config
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAddEdge.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAddTown.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAdmin.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormDelEdge.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormLogin.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormManager.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormTable.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUpdateEdge.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUpdateTown.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUser.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormWayFound.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.MainFormViewer.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormSettings.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.exe.config
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAddEdge.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAddTown.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAdmin.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormDelEdge.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormLogin.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormManager.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormSettings.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormTable.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUpdateEdge.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUpdateTown.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUser.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormWayFound.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.MainFormViewer.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.csproj.GenerateResource.Cache
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.exe.config
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.exe
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.pdb
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.exe
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\bin\Debug\AirTravel.pdb
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.csprojResolveAssemblyReference.cache
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAddEdge.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAddTown.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormAdmin.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormDelEdge.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormLogin.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormManager.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormSettings.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormTable.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUpdateEdge.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUpdateTown.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormUser.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.FormWayFound.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.MainFormViewer.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.Properties.Resources.resources
+F:\КурсачЕЕЕЕЕ\AirTravel — попытка оптимизации поиска\AirTravel\obj\Debug\AirTravel.csproj.GenerateResource.Cache
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\bin\Debug\AirTravel.exe.config
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\bin\Debug\AirTravel.exe
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\bin\Debug\AirTravel.pdb
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.csprojResolveAssemblyReference.cache
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormAddEdge.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormAddTown.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormAdmin.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormDelEdge.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormLogin.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormManager.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormSettings.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormTable.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormUpdateEdge.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormUpdateTown.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormUser.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.FormWayFound.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.MainFormViewer.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.Properties.Resources.resources
+C:\Users\Reizoky\Desktop\КурсачЕЕЕЕЕ\AirTravel\AirTravel\obj\Debug\AirTravel.csproj.GenerateResource.Cache
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\bin\Debug\AirTravel.exe.config
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\bin\Debug\AirTravel.exe
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\bin\Debug\AirTravel.pdb
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.csprojResolveAssemblyReference.cache
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormAddEdge.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormAddTown.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormAdmin.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormDelEdge.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormLogin.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormManager.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormSettings.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormTable.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormUpdateEdge.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormUpdateTown.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormUser.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.FormWayFound.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.MainFormViewer.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.Properties.Resources.resources
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.csproj.GenerateResource.Cache
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.csproj.CoreCompileInputs.cache
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.exe
+Z:\МоиПрограммы\Курсач 3 курс AirTravel\AirTravel\AirTravel\obj\Debug\AirTravel.pdb
